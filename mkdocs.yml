@@ -1,0 +1,7 @@
+site_name: Clara Santos
+nav:
+  - Currículo BR: index.md
+  - Resume EN: cven.md
+theme:
+  name: mkdocs
+  nav_style: dark
