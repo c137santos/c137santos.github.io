@@ -18,6 +18,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 pip install mkdocs-material
 
-Ainda vendo se vou fazer assim mesmo.
-# clarasantosmf.github.io
-# clarasantosmf.github.io
