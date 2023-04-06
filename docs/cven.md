@@ -111,6 +111,7 @@ I work with systems integrated to Postgresql14 databases with over one terabyte 
 
 I have a postgraduate degree in Digital Law and LGPD, with an international certification in EXIN Information Security Foundation based on ISO/IEC 27001.
 
+---
 # Languages
 
 ### English - intermediate 🇺🇸
@@ -124,5 +125,4 @@ Understands well, speaks well, reads well, and writes well.
 - [Small issues and tips for solutions in Django migrations](https://medium.com/@clarasantosmf/pequenos-b-o-e-dicas-de-solu%C3%A7%C3%B5es-em-migra%C3%A7%C3%B5es-em-django-3662451a5db7)
 - [Implementing Game of Life logic in Python](https://medium.com/p/3c2da1536957)
 - [Hiding information in Django application](https://medium.com/@clarasantosmf/escondendo-informa%C3%A7%C3%B5es-na-aplica%C3%A7%C3%A3o-django-90d06454eeb1)
-- [Integração continua no GitHub Actions](https://medium.com/@clarasantosmf/integra%C3%A7%C3%A3o-cont%C3%ADnua-com-github-actions-ed8c314c680c)
----
+- [Continuous Integration with GitHub Actions](https://medium.com/@clarasantosmf/integra%C3%A7%C3%A3o-cont%C3%ADnua-com-github-actions-ed8c314c680c)
